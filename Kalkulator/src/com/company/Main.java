@@ -3,6 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+
         Kalkulator kalkulator = new Kalkulator(10,20);
         kalkulator.dodaj();
         kalkulator.odejmij();
@@ -10,6 +11,7 @@ public class Main {
         kalkulatorStatyczny.dodaj();
         kalkulatorStatyczny.odejmij();
         kalkulatorStatyczny.sinus();
+        
     }
 }
 
