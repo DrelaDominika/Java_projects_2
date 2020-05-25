@@ -16,6 +16,7 @@ public class Main {
     }
 }
 
+
 abstract class Wyszukiwanie{
     public boolean porownaj(int a, int b) {
         return false;
