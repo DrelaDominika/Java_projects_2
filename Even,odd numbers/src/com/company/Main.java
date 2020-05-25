@@ -9,6 +9,7 @@ public class Main {
         System.out.print("Podaj cyfre: ");
         int num = reader.nextInt();
 
+        
         if(num % 2 == 0)
             System.out.println(num + " jest parzysta");
         else
