@@ -39,6 +39,7 @@ class Kwadrat implements Ksztalt {
     }
 }
 
+
 class Kolo implements Ksztalt{
     private double promien;
 
