@@ -10,6 +10,7 @@ public class Main {
         int result = factorial(n);
         System.out.println("Silnia " + n + " to " + result);
     }
+    
 
     public static int factorial(int n) {
         int result = 1;
