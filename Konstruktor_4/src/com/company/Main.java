@@ -11,6 +11,7 @@ public class Main {
         Trzy.wypisz("zadanie4");
 
     }
+    
 }
 
 class PrzykladPrzeciazanie
