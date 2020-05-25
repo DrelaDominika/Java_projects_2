@@ -46,6 +46,7 @@ class Punkt
     }
 }
 
+
 class Linia
 {
     int a, b, c, d;
