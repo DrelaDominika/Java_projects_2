@@ -1,4 +1,4 @@
-# Java_projects_1
+# Java_projects_2
 My second repository that focuses on learning the basics of Java.
 
 ## Table of contents
